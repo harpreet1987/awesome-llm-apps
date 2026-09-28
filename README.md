@@ -1,3 +1,8 @@
+
+> 📌 **Note:** This repository is a fork of the original project by [Shubhamsaboo](https://github.com/Shubhamsaboo/awesome-llm-apps), used for learning and reference purposes. All credit for these projects goes to the original author. I'm using this to practice and build my own AI projects.
+
+---
+
 <p align="center">
   <a href="http://www.theunwindai.com">
     <img src="docs/banner/unwind_black.png" width="900px" alt="Unwind AI">
